@@ -7,11 +7,12 @@ QuickDepotDownloader is a program designed primarily for swiftly downloading pre
 To use QuickDepotDownloader with Rec Room or other Steam games:
 
 1. **Configure the Bat File:**
+   - Place the bat file in the same file a depot downloader
    - Open the bat file and modify the `-username` field with your actual username.
    - Change the `-password` field with your respective password.
    - Note: Your login credentials are used solely for SteamDB access; I do not have access to your login information.
 
-2. **Disclaimer:**
+3. **Disclaimer:**
    - I am not liable for any actions taken using this program.
    - Please refrain from creating builds for 2023, as Rec Room does not permit this. At OldRecRoom.com, we uphold and respect Rec Room's rights.
 
